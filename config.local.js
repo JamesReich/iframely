@@ -109,13 +109,14 @@ export default {
     }
     */
 
-    /*
+
     // Access-Control-Allow-Origin list.
     allowedOrigins: [
         "*",
-        "http://another_domain.com"
+        "http://localhost:5173",
+        "https://cloak.chat",
     ],
-    */
+
 
     /*
     // Uncomment to enable plugin testing framework.
